@@ -3,7 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background1.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background2.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background3.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background4.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/cat_background5.xml" value="0.14189189189189189" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/przycisk_start.xml" value="0.21875" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/szary_banner.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/viewholder_popular.xml" value="0.1820945945945946" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/drawable/wyszukaj_t.xml" value="0.21875" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_cart_list.xml" value="0.17162162162162162" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_show_detail.xml" value="0.17162162162162162" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_start.xml" value="0.26875" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/viewholder_category.xml" value="0.25" />
+        <entry key="..\:/Users/proo/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/viewholder_popular.xml" value="0.25" />
         <entry key="..\:/Users/proo/AndroidStudioProjects/Restauracja/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_cart_list.xml" value="0.1765710382513661" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_main.xml" value="0.1765710382513661" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_show_detail.xml" value="0.11283783783783784" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/activity_start.xml" value="0.1152027027027027" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/RIKWO/Restauracja/app/src/main/res/layout/viewholder_cart.xml" value="0.335" />
       </map>
     </option>
   </component>
